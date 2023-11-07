@@ -59,7 +59,7 @@ header {
 .nav-bar nav ul li a {
   color: var(--nav-color);
   text-decoration: none;
-  font-size: 12px;
+  font-size: 15px;
   font-family: var(--st-font);
 }
 
