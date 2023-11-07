@@ -185,3 +185,22 @@ header {
   font-family: var(--nd-font);
 }
 /* Contact form - END */
+
+@media (max-width: 568px) {
+  .contact-us {
+    width: 100%;
+    display: block;
+  }
+  .contact-form,
+  .contact-info {
+    width: 95%;
+    margin: auto;
+  }
+  .contact-form {
+    border-radius: 10px 10px 0 0;
+  }
+  .contact-info {
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 250px;
+  }
+}
