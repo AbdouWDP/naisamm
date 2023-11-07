@@ -237,13 +237,7 @@ header {
     position: relative;
   }
   .fa-arrow-right-long {
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-  .programming-title:hover .fa-arrow-right-long {
-    transform: translate(10px, -50%);
+    display: none;
   }
   .unit {
     width: 95%;
