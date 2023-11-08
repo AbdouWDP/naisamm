@@ -291,7 +291,8 @@ header {
   .programming-title {
     position: relative;
   }
-  .fa-arrow-right-long {
+  .fa-arrow-right-long,
+  .programming-title span {
     display: none;
   }
   .unit {
