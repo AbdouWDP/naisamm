@@ -140,7 +140,6 @@ main {
 .topic-paragraph {
   display: flex;
   flex-direction: column;
-  gap: 15px;
   font-family: var(--nd-font);
   font-weight: 500;
 }
