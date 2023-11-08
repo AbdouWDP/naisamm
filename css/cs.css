@@ -152,6 +152,13 @@ main {
   flex-direction: column;
   gap: 10px;
 }
+
+@media (max-width: 568px) {
+  .topic-image img {
+    object-position: -280px 10px;
+  }
+}
+
 /* Footer - START */
 
 .footer-dark {
