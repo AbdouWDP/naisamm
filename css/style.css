@@ -98,7 +98,7 @@ header {
   .fa-solid,
   .bar,
   .close-bar {
-    display: none;
+    display: none !important;
   }
 }
 
